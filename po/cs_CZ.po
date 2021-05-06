@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-input-method 20091123110942\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Klávesa Fn zapnuta"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Režim Caps Lock zapnut"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "Jazyk automatického dokončování změněn na %s"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Rozvržení klávesnice změněno na %s"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "Kopírovat"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "Vyjmout"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "Nabídka klávesnice"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "Vložit"
+
+msgid "thum_me_main_menu_help"
+msgstr "Nápověda"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "Zvolte jazyk"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "Kopírovat"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "Vyjmout"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "Vložit"

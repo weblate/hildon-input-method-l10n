@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-input-method 20091123110942\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Fn er låst"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Caps Lock på"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "Byttet innskrivingsspråk til %s"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Byttet tastaturoppsett til %s"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "Kopier"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "Klipp ut"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "Tastatur-meny"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "Lim inn"
+
+msgid "thum_me_main_menu_help"
+msgstr "Hjelp"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "Velg språk"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "Kopier"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "Klipp ut"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "Lim inn"
