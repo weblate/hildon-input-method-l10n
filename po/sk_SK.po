@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-input-method 20090515151312\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-03-28 23:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Klávesa Fn zapnutá"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Režim Caps Lock zapnutý"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "Jazyk automatického dokončovania zmenený na %s"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Rozloženie klávesnice zmenené na %s"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "Kopírovať "
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "Vystrihnúť"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "Ponuka klávesnice"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "Vložiť"
+
+msgid "thum_me_main_menu_help"
+msgstr "Pomocník"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "Zvolte jazyk"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "Kopírovať"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "Vystrihnúť"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "Vložiť"
