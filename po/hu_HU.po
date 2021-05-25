@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-input-method 20090515151312\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-02-21 21:20+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Fn bekapcsolva"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Caps lock bekapcsolva"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "Beviteli nyelv átváltva"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Billentyűzet kiosztás átváltva"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "Másolás"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "Kivágás"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "Billentyűzet menü"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "Beillesztés"
+
+msgid "thum_me_main_menu_help"
+msgstr "Súgó"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "Nyelv kiválasztása"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "Másolás"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "Kivágás"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "Beillesztés"
+
