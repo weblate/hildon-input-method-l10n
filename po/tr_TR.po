@@ -1,0 +1,95 @@
+#
+# This file is part of hildon-input-method-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-input-method 20090515151312\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-02-02 08:56+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Title of application menu item: Cut
+msgid "thum_me_menu_edit_cut"
+msgstr "Kes"
+
+# Title of application menu item: Copy
+msgid "thum_me_menu_edit_copy"
+msgstr "Kopyala"
+
+# Title of application menu item: Paste
+msgid "thum_me_menu_edit_paste"
+msgstr "Yapıştır"
+
+# Main title of application menu: Select language
+msgid "thum_me_main_menu_select_language"
+msgstr "Lisan seç"
+
+# Main title of application menu: Help
+msgid "thum_me_main_menu_help"
+msgstr "Yardım"
+
+# Title of input menu dialog
+msgid "inpu_nc_common_menu_method"
+msgstr "Klavye menü"
+
+# Label of input selection button
+msgid "inpu_nc_common_menu_cut"
+msgstr "Kes"
+
+# Label of input selection button
+msgid "inpu_nc_common_menu_copy"
+msgstr "Kopyala"
+
+# Label of input selection button
+msgid "inpu_nc_common_menu_paste"
+msgstr "Yapıştır"
+
+# Infoprint shown when performing the quick switch for dual layouts
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Klavye örtsü değiştirildi"
+
+# Infoprint shown when performing the quick switch, when switching only language, not layout
+msgid "inpu_ib_quick_layout_language"
+msgstr "Girdi dili değiştirildi"
+
+# Fn key is locked.
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Fn kilitlendi"
+
+# Caps are locked by shift
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Caps lock açık"
+
