@@ -1,0 +1,55 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2012-02-07 10:11+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Fn wedi ei gloi"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "Braslythrennu wedi ei gloi"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "Newidiwyd iaith mewnbwn"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "Newidiwyd cynllun bysellfwrdd"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "Copïo"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "Torri"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "Dewislen allweddfwrdd"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "Gludo"
+
+msgid "thum_me_main_menu_help"
+msgstr "Cymorth"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "Dewis iaith"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "Copïo"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "Torri"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "Gludo"
