@@ -1,0 +1,54 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "已锁定Fn键"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "已锁定大写"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "已切换输入语言 %s"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "已切换键盘外观 %s"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "复制"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "剪切"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "键盘菜单"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "粘贴"
+
+msgid "thum_me_main_menu_help"
+msgstr "帮助"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "选择语言"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "复制"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "剪切"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "粘贴"
