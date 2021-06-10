@@ -1,0 +1,54 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "inpu_ib_mode_fn_locked"
+msgstr "Fn 입력이 활성화 되었습니다"
+
+msgid "inpu_ib_mode_shift_locked"
+msgstr "대문자 입력이 활성화 되었습니다"
+
+msgid "inpu_ib_quick_layout_language"
+msgstr "입력 언어가 변경되었습니다"
+
+msgid "inpu_ib_quick_layout_switch"
+msgstr "키보드 레이아웃이 변경되었습니다"
+
+msgid "inpu_nc_common_menu_copy"
+msgstr "복사"
+
+msgid "inpu_nc_common_menu_cut"
+msgstr "잘라내기"
+
+msgid "inpu_nc_common_menu_method"
+msgstr "키보드 메뉴"
+
+msgid "inpu_nc_common_menu_paste"
+msgstr "붙여넣기"
+
+msgid "thum_me_main_menu_help"
+msgstr "도움말"
+
+msgid "thum_me_main_menu_select_language"
+msgstr "언어 선택"
+
+msgid "thum_me_menu_edit_copy"
+msgstr "복사"
+
+msgid "thum_me_menu_edit_cut"
+msgstr "잘라내기"
+
+msgid "thum_me_menu_edit_paste"
+msgstr "붙여넣기"
